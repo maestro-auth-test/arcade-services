@@ -55,21 +55,21 @@
     </Dependency>
   </ProductDependencies>
   <ToolsetDependencies>
-    <Dependency Name="Microsoft.DotNet.Arcade.Sdk" Version="8.0.0-beta.25427.4">
-      <Uri>https://github.com/dotnet/arcade</Uri>
-      <Sha>6e78cc9faf0ab29992b01007d71519655344e74c</Sha>
+    <Dependency Name="Microsoft.DotNet.Arcade.Sdk" Version="11.0.0-beta.25459.1">
+      <Uri>https://github.com/maestro-auth-test/arcade</Uri>
+      <Sha>4bb350073ab630245b80473c78b8c9d14d8236c8</Sha>
     </Dependency>
-    <Dependency Name="Microsoft.DotNet.SignTool" Version="8.0.0-beta.25427.4">
-      <Uri>https://github.com/dotnet/arcade</Uri>
-      <Sha>6e78cc9faf0ab29992b01007d71519655344e74c</Sha>
+    <Dependency Name="Microsoft.DotNet.SignTool" Version="11.0.0-beta.25459.1">
+      <Uri>https://github.com/maestro-auth-test/arcade</Uri>
+      <Sha>4bb350073ab630245b80473c78b8c9d14d8236c8</Sha>
     </Dependency>
-    <Dependency Name="Microsoft.DotNet.Build.Tasks.Feed" Version="8.0.0-beta.25427.4">
-      <Uri>https://github.com/dotnet/arcade</Uri>
-      <Sha>6e78cc9faf0ab29992b01007d71519655344e74c</Sha>
+    <Dependency Name="Microsoft.DotNet.Build.Tasks.Feed" Version="11.0.0-beta.25459.1">
+      <Uri>https://github.com/maestro-auth-test/arcade</Uri>
+      <Sha>4bb350073ab630245b80473c78b8c9d14d8236c8</Sha>
     </Dependency>
-    <Dependency Name="Microsoft.DotNet.SwaggerGenerator.MSBuild" Version="8.0.0-beta.25427.4">
-      <Uri>https://github.com/dotnet/arcade</Uri>
-      <Sha>6e78cc9faf0ab29992b01007d71519655344e74c</Sha>
+    <Dependency Name="Microsoft.DotNet.SwaggerGenerator.MSBuild" Version="11.0.0-beta.25459.1">
+      <Uri>https://github.com/maestro-auth-test/arcade</Uri>
+      <Sha>4bb350073ab630245b80473c78b8c9d14d8236c8</Sha>
     </Dependency>
     <Dependency Name="Microsoft.DotNet.VersionTools" Version="8.0.0-beta.25427.4">
       <Uri>https://github.com/dotnet/arcade</Uri>
