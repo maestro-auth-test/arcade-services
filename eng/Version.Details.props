@@ -19,11 +19,12 @@ This file should be imported by eng/Versions.props
     <MicrosoftDotNetInternalTestingUtilityPackageVersion>1.1.0-beta.25215.1</MicrosoftDotNetInternalTestingUtilityPackageVersion>
     <MicrosoftDotNetKustoPackageVersion>1.1.0-beta.25215.1</MicrosoftDotNetKustoPackageVersion>
     <MicrosoftDotNetServicesUtilityPackageVersion>1.1.0-beta.25215.1</MicrosoftDotNetServicesUtilityPackageVersion>
+    <!-- maestro-auth-test/arcade dependencies -->
+    <MicrosoftDotNetArcadeSdkPackageVersion>11.0.0-beta.25459.1</MicrosoftDotNetArcadeSdkPackageVersion>
+    <MicrosoftDotNetBuildTasksFeedPackageVersion>11.0.0-beta.25459.1</MicrosoftDotNetBuildTasksFeedPackageVersion>
+    <MicrosoftDotNetSignToolPackageVersion>11.0.0-beta.25459.1</MicrosoftDotNetSignToolPackageVersion>
+    <MicrosoftDotNetSwaggerGeneratorMSBuildPackageVersion>11.0.0-beta.25459.1</MicrosoftDotNetSwaggerGeneratorMSBuildPackageVersion>
     <!-- dotnet/arcade dependencies -->
-    <MicrosoftDotNetArcadeSdkPackageVersion>8.0.0-beta.25427.4</MicrosoftDotNetArcadeSdkPackageVersion>
-    <MicrosoftDotNetBuildTasksFeedPackageVersion>8.0.0-beta.25427.4</MicrosoftDotNetBuildTasksFeedPackageVersion>
-    <MicrosoftDotNetSignToolPackageVersion>8.0.0-beta.25427.4</MicrosoftDotNetSignToolPackageVersion>
-    <MicrosoftDotNetSwaggerGeneratorMSBuildPackageVersion>8.0.0-beta.25427.4</MicrosoftDotNetSwaggerGeneratorMSBuildPackageVersion>
     <MicrosoftDotNetVersionToolsPackageVersion>8.0.0-beta.25427.4</MicrosoftDotNetVersionToolsPackageVersion>
     <!-- dotnet/dnceng dependencies -->
     <MicrosoftDncEngConfigurationBootstrapPackageVersion>1.1.0-beta.25421.1</MicrosoftDncEngConfigurationBootstrapPackageVersion>
@@ -45,11 +46,12 @@ This file should be imported by eng/Versions.props
     <MicrosoftDotNetInternalTestingUtilityVersion>$(MicrosoftDotNetInternalTestingUtilityPackageVersion)</MicrosoftDotNetInternalTestingUtilityVersion>
     <MicrosoftDotNetKustoVersion>$(MicrosoftDotNetKustoPackageVersion)</MicrosoftDotNetKustoVersion>
     <MicrosoftDotNetServicesUtilityVersion>$(MicrosoftDotNetServicesUtilityPackageVersion)</MicrosoftDotNetServicesUtilityVersion>
-    <!-- dotnet/arcade dependencies -->
+    <!-- maestro-auth-test/arcade dependencies -->
     <MicrosoftDotNetArcadeSdkVersion>$(MicrosoftDotNetArcadeSdkPackageVersion)</MicrosoftDotNetArcadeSdkVersion>
     <MicrosoftDotNetBuildTasksFeedVersion>$(MicrosoftDotNetBuildTasksFeedPackageVersion)</MicrosoftDotNetBuildTasksFeedVersion>
     <MicrosoftDotNetSignToolVersion>$(MicrosoftDotNetSignToolPackageVersion)</MicrosoftDotNetSignToolVersion>
     <MicrosoftDotNetSwaggerGeneratorMSBuildVersion>$(MicrosoftDotNetSwaggerGeneratorMSBuildPackageVersion)</MicrosoftDotNetSwaggerGeneratorMSBuildVersion>
+    <!-- dotnet/arcade dependencies -->
     <MicrosoftDotNetVersionToolsVersion>$(MicrosoftDotNetVersionToolsPackageVersion)</MicrosoftDotNetVersionToolsVersion>
     <!-- dotnet/dnceng dependencies -->
     <MicrosoftDncEngConfigurationBootstrapVersion>$(MicrosoftDncEngConfigurationBootstrapPackageVersion)</MicrosoftDncEngConfigurationBootstrapVersion>
